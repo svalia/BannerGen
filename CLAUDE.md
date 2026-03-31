@@ -3,6 +3,7 @@
 ## Global Rules
 
 - Always communicate with the user and think in Russian (Русский язык).
+- Before starting any task, pause and think critically about what might be unclear, missing, or ambiguous. Ask the user clarifying questions before proceeding. The user may not always account for every detail upfront, so help them by identifying gaps and edge cases early. This rule applies to all subagents as well.
 
 ## Project Overview
 
