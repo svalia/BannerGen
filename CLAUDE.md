@@ -1,5 +1,9 @@
 # CLAUDE.md - BannerGen
 
+## Global Rules
+
+- Always communicate with the user and think in Russian (Русский язык).
+
 ## Project Overview
 
 BannerGen is a Salesforce Research library for multi-modality ad banner generation. It generates banners from background images and foreground text specifications using three parallel deep learning methods: **LayoutDETR**, **InstructPix2Pix**, and **RetrieveAdapter**.
